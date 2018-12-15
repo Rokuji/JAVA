@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1427933900 source:c:\users\rdo\desktop\inheritance\consumable.cpp
+	"Consumable.h"
+
+1427933900 c:\users\rdo\desktop\inheritance\consumable.h
+	"Item.h"
+
+1430841567 c:\users\rdo\desktop\inheritance\item.h
+	<iostream>
+	<string>
+
+1427933900 source:c:\users\rdo\desktop\inheritance\inventory.cpp
+	<iomanip>
+	<utility>
+	"Inventory.h"
+
+1427933900 c:\users\rdo\desktop\inheritance\inventory.h
+	<iostream>
+	<list>
+	"ItemStack.h"
+
+1427933900 c:\users\rdo\desktop\inheritance\itemstack.h
+	<iostream>
+	"ItemFactory.h"
+
+1427933900 c:\users\rdo\desktop\inheritance\itemfactory.h
+	<iostream>
+	"Item.h"
+	"Armour.h"
+	"Tool.h"
+	"Consumable.h"
+
+1430842953 c:\users\rdo\desktop\inheritance\armour.h
+	"Item.h"
+
+1430843216 c:\users\rdo\desktop\inheritance\tool.h
+	"Item.h"
+
+1427933900 source:c:\users\rdo\desktop\inheritance\item.cpp
+	<iomanip>
+	"Item.h"
+
+1430843179 source:c:\users\rdo\desktop\inheritance\armour.cpp
+	"Armour.h"
+
+1430841340 source:c:\users\rdo\desktop\inheritance\itemfactory.cpp
+	"ItemFactory.h"
+
+1427933900 source:c:\users\rdo\desktop\inheritance\itemstack.cpp
+	<iomanip>
+	"ItemStack.h"
+
+1427933900 source:c:\users\rdo\desktop\inheritance\storage.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"Inventory.h"
+	"ItemStack.h"
+	"ItemFactory.h"
+
+1427933900 source:c:\users\rdo\desktop\inheritance\tool.cpp
+	"Tool.h"
+
