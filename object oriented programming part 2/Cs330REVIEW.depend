@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1430678116 source:c:\users\rdo\desktop\cs330review\inventory.cpp
+	<utility>
+	"Inventory.h"
+
+1430677587 c:\users\rdo\desktop\cs330review\inventory.h
+	<iostream>
+	"ItemStack.h"
+
+1423079000 c:\users\rdo\desktop\cs330review\itemstack.h
+	<iostream>
+	"Item.h"
+
+1423079000 c:\users\rdo\desktop\cs330review\item.h
+	<iostream>
+	<string>
+
+1423079000 source:c:\users\rdo\desktop\cs330review\item.cpp
+	<iomanip>
+	"Item.h"
+
+1423079000 source:c:\users\rdo\desktop\cs330review\itemstack.cpp
+	<iomanip>
+	"ItemStack.h"
+
+1423079000 source:c:\users\rdo\desktop\cs330review\storage.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<vector>
+	<algorithm>
+	"Inventory.h"
+	"ItemStack.h"
+	"Item.h"
+
