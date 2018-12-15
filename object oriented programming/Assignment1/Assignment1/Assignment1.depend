@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1423075400 source:c:\users\rdo\desktop\cs330\assignment1\assignment1\inventory.cpp
+	<utility>
+	"Inventory.h"
+
+1423075400 c:\users\rdo\desktop\cs330\assignment1\assignment1\inventory.h
+	<iostream>
+	"ItemStack.h"
+
+1423075400 c:\users\rdo\desktop\cs330\assignment1\assignment1\itemstack.h
+	<iostream>
+	"Item.h"
+
+1423075400 c:\users\rdo\desktop\cs330\assignment1\assignment1\item.h
+	<iostream>
+	<string>
+
+1423075400 source:c:\users\rdo\desktop\cs330\assignment1\assignment1\item.cpp
+	<iomanip>
+	"Item.h"
+
+1423075400 source:c:\users\rdo\desktop\cs330\assignment1\assignment1\itemstack.cpp
+	<iomanip>
+	"ItemStack.h"
+
+1423075400 source:c:\users\rdo\desktop\cs330\assignment1\assignment1\storage.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<vector>
+	<algorithm>
+	"Inventory.h"
+	"ItemStack.h"
+	"Item.h"
+
